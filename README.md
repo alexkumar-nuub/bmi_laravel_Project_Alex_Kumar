@@ -11,13 +11,13 @@
  ## Screenshots
 
 Input Form in cm                                                      
-| <img src="screenshots/input_cm.png.png" >
+| <img src="screenshots/input_cm.png" >
 
 Input Form in feet                                                      
-| <img src="screenshots/input_feet.png.png" >
+| <img src="screenshots/input_feet.png" >
 
 Results Page
-| <img src="screenshots/output.png.png" > 
+| <img src="screenshots/output.png" > 
 
 <!-- <img src="screenshots/output.png.png" width="400">  -->
 
