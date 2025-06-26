@@ -81,7 +81,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-Created with ❤️ using Laravel
+Created with ❤️ using Laravel by Alex Kumar and Supervised by Kapil Das | Senior developer |NIC Assam
 BMI Calculator Live Demo | Report an Issue
 
 [def]: creenshots/form.pn
